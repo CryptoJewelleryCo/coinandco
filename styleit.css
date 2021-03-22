@@ -1,8 +1,5 @@
-.center-screen {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
-}
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+} 
